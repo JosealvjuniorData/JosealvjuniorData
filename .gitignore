@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/private/
+*.parquet
+*.csv
+*.xlsx
+
+# Logs / temp
+logs/
+tmp/
+*.log
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Power BI / Others
+*.pbix
+*.pbit
+*.pbix*
+*.pbit*
+*.pbip
+*.rdl
